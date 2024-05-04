@@ -1,3 +1,30 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.dmsans{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 500;
+
+
+}.dmsans1{
+    font-family: "DM Sans", sans-serif;
+
+    line-height: 105%; /* 58.32px */
+    letter-spacing: -1.8px;
+
+}
+.dmsans2{
+    font-family: "DM Sans", sans-serif;
+    font-weight: 500;
+    line-height: 117%; /* 37.44px */
+    letter-spacing: -0.96px;
+
+
+}
+
+.inter{
+    font-family: 'Inter', sans-serif;
+
+}
